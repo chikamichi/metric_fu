@@ -28,7 +28,6 @@ module MetricFu
       report_hash.to_yaml
     end
 
-
     def report_hash #:nodoc:
       @report_hash ||= {}
     end
